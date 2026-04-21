@@ -1,6 +1,6 @@
 import argparse
 import time
-
+jjjjjjjjjjjjjj
 
 def blink_simulation(interval: float) -> None:
     """Simula un LED encendiendo y apagando en consola."""
